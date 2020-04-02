@@ -24,8 +24,8 @@
 
 #subPageContent #subPageMain #search {
 	position: absolute;
-	right: 40px;
-	top: 93px;
+	right: -33px;
+	top: 0px;
 }
 
 #subPageContent #subPageMain #search input {
@@ -86,7 +86,7 @@
 }
 
 #subPageMain #pageSkip {
-	width: 500px;
+	width: 600px;
 	/* float: right; */
 	/* margin-right: 300px; */
 	/* margin: 40px 300px 50px 0;*/
@@ -198,7 +198,7 @@ select::-ms-expand {
 	background: #e1e5e1 url(../img/slideNavLiBg.gif) left no-repeat;
 }
 #NewsCenter #subPageContent #subPageMain #search {
-	top: 45px;
+	top: -45px;
 }
 #NewsCenter  #subPageMain h3 {
 	height: 30px;
