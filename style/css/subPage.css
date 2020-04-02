@@ -45,7 +45,8 @@
 	width: 1200px;
 	height: 40px;
 	line-height: 30px;
-	box-shadow: 0px 18px 20px #ebebeb
+	/* box-shadow: 0px 18px 20px #ebebeb; */
+	box-shadow: 4px 5px 7px -1px #ebebeb;
 }
 
 #tabBox #tab_Menu ul li {
@@ -86,9 +87,10 @@
 
 #subPageMain #pageSkip {
 	width: 500px;
-	float: right;
+	/* float: right; */
 	/* margin-right: 300px; */
-	margin: 40px 300px 50px 0;
+	/* margin: 40px 300px 50px 0;*/
+	margin: 50px auto;
 }
 #subPageMain #pageSkip>a {
 	display: block;
@@ -208,5 +210,6 @@ select::-ms-expand {
 	width: 103px;
 	height: 30px;
 	right: 0;
+	top: 0;
 	background: #017001;
 }
